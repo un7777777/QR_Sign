@@ -1,4 +1,1 @@
-https://forms.gle/wWftze5WWGk5hFd29
 python generate_qr.py "https://docs.google.com/forms/d/e/1FAIpQLSe9pbj1XTVebFQGcyzUqZ9kA_LyCl73IqqsuUwkORYv-JHl1g/viewform" output.png
-
-python generate_qr.py https://forms.gle/LZztudvKYQKHcwrb8 output.png
